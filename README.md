@@ -1,3 +1,7 @@
+**Forked from https://github.com/andersnm/xmldom-decorators**, because that
+repository seems to be no longer maintained. This package is `@drosenbauer/xmldom-decorators`. The original is
+rather than `xmldom-decorators`.
+
 # xmldom-decorators
 
 TypeScript decorators and (de-)serializer for xmldom.
@@ -15,7 +19,7 @@ See [packages/xmldom-decorators-cli](packages/xmldom-decorators-cli)
 First check out the source code and bootstrap the monorepo build environment:
 
 ```bash
-git clone https://github.com/andersnm/xmldom-decorators.git
+git clone https://github.com/drosenbauer/xmldom-decorators.git
 cd xmldom-decorators
 npm install   # installs blerf in the root project
 ```
