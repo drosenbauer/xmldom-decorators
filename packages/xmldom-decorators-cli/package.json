@@ -1,7 +1,7 @@
 {
-  "name": "xmldom-decorators-cli",
+  "name": "@drosenbauer/xmldom-decorators-cli",
   "private": true,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Command line tool to convert XSD to TypeScript classes using xmldom-decorators",
   "author": "andersnm",
   "license": "MIT",
@@ -26,7 +26,7 @@
     "typescript": "^3.3.1"
   },
   "dependencies": {
-    "xmldom-decorators": "file:../../artifacts/build/xmldom-decorators.tgz"
+    "@drosenbauer/xmldom-decorators": "file:../../artifacts/build/@drosenbauer/xmldom-decorators.tgz"
   },
   "blerf": {
     "steps": [

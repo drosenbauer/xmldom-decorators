@@ -1,4 +1,4 @@
-import { XMLRoot, XMLElement, XMLArray, XMLAttribute, XMLText } from "xmldom-decorators";
+import { XMLRoot, XMLElement, XMLArray, XMLAttribute, XMLText } from "@drosenbauer/xmldom-decorators";
 
 @XMLRoot({name: "", namespaceUri: ""})
 export class LocationTypeForestFire {
