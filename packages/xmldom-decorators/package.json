@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "reflect-metadata": "^0.1.12",
-    "xmldom": "^0.1.27"
+    "@xmldom/xmldom": ">=0.8.0"
   },
   "blerf": {
     "steps": [
