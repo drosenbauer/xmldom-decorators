@@ -2,7 +2,7 @@
   "name": "root",
   "private": true,
   "devDependencies": {
-    "blerf": "https://github.com/drosenbauer/blerf/releases/download/v0.0.12/blerf-0.0.12.tgz",
+    "blerf": "https://github.com/drosenbauer/blerf/releases/download/v0.0.13/blerf-0.0.13.tgz",
     "fast-glob": "^3.3.2"
   },
   "dependencies": {},
